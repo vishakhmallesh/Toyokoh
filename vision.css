@@ -27,7 +27,7 @@ html, body {
 /* title-page */
 
 .title {
-  height: 100%;
+  /* height: 100%; */
   padding: 3% 5% 0;
   background: url("images/vision-cover.jpg");
   background-repeat: no-repeat;
