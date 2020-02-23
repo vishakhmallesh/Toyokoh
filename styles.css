@@ -59,7 +59,7 @@ html, body {
 
 .scroll-down{
   padding-top: 5%;
-  padding-bottom: 5%;
+  padding-bottom: auto;
 }
 
 .scroll-down-icon{
